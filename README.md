@@ -32,7 +32,7 @@ Lambda updated automatically
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 csv-import-pipeline/
 │
@@ -46,7 +46,7 @@ csv-import-pipeline/
 
 ---
 
-## ⚙️ CI/CD
+## CI/CD
 
 Deployments are fully automated.
 
@@ -64,7 +64,7 @@ No manual console steps required.
 
 ---
 
-## 💻 Local Development
+## Local Development
 
 ### Build
 
@@ -82,7 +82,7 @@ No manual console steps required.
 
 ---
 
- 🚀 Manual Deploy (optional)
+ Manual Deploy (optional)
 
 ##sam deploy --guided
 
