@@ -86,6 +86,7 @@ No manual console steps required.
 
 ##sam deploy --guided
 
+<img width="1698" height="368" alt="csv-pipeline" src="https://github.com/user-attachments/assets/2ae4514a-4026-49ba-9ce0-a61b77726daf" />
 
 ---
 
