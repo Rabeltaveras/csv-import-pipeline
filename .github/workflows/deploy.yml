@@ -27,7 +27,7 @@ jobs:
       - name: Configure AWS credentials (OIDC)
         uses: aws-actions/configure-aws-credentials@v4
         with:
-          role-to-assume: ${{ secrets.AWS_ROLE_ARN }}
+          role-to-assume: arn:aws:iam::802861900651:role/GitHubActionsSamDeployRole
           aws-region: ${{ env.AWS_REGION }}
 
       - name: Setup AWS SAM
