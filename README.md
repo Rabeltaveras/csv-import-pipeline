@@ -89,7 +89,7 @@ No manual console steps required.
 
 ---
 
-## 🔐 Security
+## Security
 
 - No stored AWS keys
 - OIDC authentication only
